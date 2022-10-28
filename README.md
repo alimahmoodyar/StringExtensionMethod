@@ -14,4 +14,4 @@ Checks if string has a defined length
 Checks if strings is as boolean characters such as "t", "y", "1" or "true"
 
 ### PassXSSChars
-Don't worry about XSS attachs. Simply pass your string with this method and dangerous characters will be replaced.
+Don't worry about XSS attacks. Simply pass your string with this method and dangerous characters will be replaced.
